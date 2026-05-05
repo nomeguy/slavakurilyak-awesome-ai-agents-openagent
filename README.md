@@ -1803,6 +1803,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/OpenAGI">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### OpenAgent
+<div><a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/github/stars/the-open-agent/openagent?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 4,533 stars (Updated: 2026-05-05)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>OpenAgent is a next-generation personal AI assistant powered by LLM, RAG, and agent loops, with computer-use, browser-use, and coding agents, MCP and A2A integration, 30+ model providers, visual workflow builder, and self-hosted deployment with admin dashboard.</p>
+
+<p><a href="https://github.com/the-open-agent/openagent">github</a> | <a href="https://demo.openagentai.org">demo</a> | <a href="https://www.openagentai.org">website</a></p>
+</div>
+
 ### OpenAI
 <div><a href="https://openai.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
